@@ -43,19 +43,19 @@ This repository is my public build log for the IOTB TECH 30-Day Linux Command Ma
 
 I'm Ibrahim — an engineer with a background in mechanical and energy systems (HVAC, power systems) now deliberately expanding into Cloud and DevOps Engineering. This challenge is part of that build: hands-on Linux fluency as a foundation for the AWS and Terraform work I'm doing in parallel (including a production-style AWS environment project running in `eu-west-1`). Not a career pivot — a skill expansion, toward broader systems-thinking engineering.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ibrahimqozeem/).
 
 ## Full Article Series
 
 The daily write-ups for this challenge are published as a series on LinkedIn and Medium, each linking back to that day's folder in this repository.
 
-- [LinkedIn article series index](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/recent-activity/articles/) — pinned post indexes all 30 articles
-- [Medium profile](https://medium.com/@YOUR-MEDIUM-HANDLE) — long-form daily documentation
+- [LinkedIn article series](https://www.linkedin.com/posts/qozeemibrahim_linux-cloudengineering-devops-share-7492993398484795392-_Vy0/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADuBcS4BLYQLpA2nqoeMiyg1l1qxspLsutA) — pinned post indexes all 30 articles
+- [Medium profile](https://medium.com/@qaasimibrahim2001) — long-form daily documentation
 
 ## Command Journal
 
-A running log of all 300 commands with a one-line note, in my own words, on what each one does: [journal/command-journal.md](./journal/command-journal.md)
+A running log of all 300 commands with a one-line note, in my own words, on what each one does: [journal/command-journal.md](https://app.notion.com/p/300-linux-commands-3b9e0317e06680bba9edff3b4c9d317c?source=copy_link)
 
 ---
 
-*Part of the IOTB TECH 30-Day Linux Command Mastery Challenge — 300 commands earned in a deliberate sequence, not memorized in a rush.*
+*Part of the IOTB TECH Fellowship Programme (Stellar Titans Cohort) ---> 30-Day Linux Command Mastery Challenge — 300 commands earned in a deliberate sequence, not memorized in a rush.*
