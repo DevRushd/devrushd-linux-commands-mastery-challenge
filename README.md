@@ -7,7 +7,7 @@ This repository is my public build log for the IOTB TECH 30-Day Linux Command Ma
 | Day | Topic | Status | Folder |
 |-----|-------|--------|--------|
 | 1 | Where Am I? Basic Orientation | ✅ Complete | [day-01-basic-operations](./phase-01-file-navigation-filesystem-mastery/day-01-basic-operations/) |
-| 2 | Creating, Copying, Moving, Deleting | ⬜ Not Started | [day-02-file-operations](./day-02-file-operations/) |
+| 2 | Creating, Copying, Moving, Deleting | ✅ Complete | [day-02-creating-copying-deleting-moving](./phase-01-file-navigation-filesystem-mastery/day-02-creating-copying-deleting-moving) |
 | 3 | Reading & Inspecting Files | ⬜ Not Started | [day-03-file-inspection](./day-03-file-inspection/) |
 | 4 | Searching the Filesystem | ⬜ Not Started | [day-04-filesystem-search](./day-04-filesystem-search/) |
 | 5 | Paths, Links & Tree Structures (Checkpoint) | ⬜ Not Started | [day-05-links-checkpoint](./day-05-links-checkpoint/) |
