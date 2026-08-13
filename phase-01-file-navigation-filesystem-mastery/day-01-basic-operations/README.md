@@ -16,4 +16,4 @@ It was really fascinating to see the large files in the 'log' directory at a gla
 Kindly find the screenshot or terminal transcript of the drill in evidence/.
 
 ### Related
-Next day: ../day-02-creating-copying-moving-deleting/
+Next day: [day-02-creating-copying-deleting-moving](./phase-01-file-navigation-filesystem-mastery/day-02-creating-copying-deleting-moving)
