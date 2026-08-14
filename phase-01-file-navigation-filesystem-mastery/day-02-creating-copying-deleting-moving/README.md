@@ -18,5 +18,6 @@ I was literally amazed at how i could create multiple-layered directories at a g
 Kindly find the screenshot or terminal transcript of the drill in [evidence/](./evidence).
 
 ### Related
-Previous day: [day-01-file-operations](../day-01-basic-operations/)
-Next day: [day-03-creating-copying-deleting-moving](../day-03-reading-inspecting-files/)
+Previous day: [day-01-basic-operations](../day-01-basic-operations/)
+
+Next day: [day-03-reading-inspecting-files](../day-03-reading-inspecting-files/)
