@@ -13,6 +13,7 @@ $ mkdir -p practice/2026/april
 
 $ ls
 practice
+
 $ cd practice/2026/april/
 
 $ touch file1 file2 file3
