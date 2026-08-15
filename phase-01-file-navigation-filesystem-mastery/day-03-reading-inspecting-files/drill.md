@@ -20,6 +20,12 @@ $ cat syslog
 $ less syslog # Up & Down Arrow Key / Spacebar Key - to move up and down line by line (Pg Up/Pg Down - works for page by page), 'q' - to quit the reading mode and get back to the terminal.  
 # Gets into a reading mode and you decide yourself when you want to go the next page. To exit, press 'q'
 
+$ head -n 15 syslog
+# Shows fist 15 lines of the file
+
+$ tail -n 15 syslog
+# Shows last 15 lines of the file
+
 $ wc -l syslog
 1320 syslog # 1,320 lines
 
