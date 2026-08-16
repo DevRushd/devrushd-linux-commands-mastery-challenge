@@ -8,11 +8,13 @@ See [commands.md](./commands.md) for all 10 commands, their syntax and my own ex
 ### What I practiced
 I practiced searching for files and folders across the filesystem based on naming pattern, size, time modified, object type, and permissions. I also practiced using a faster search method like `locate` and updating its search database. Then, I rounded my learning up with how to check disk usage and free space avilable on disk.
 
+NOTE: I wasn't aware `locate` was not always pre-installed, so i had to install using the command `sudo apt install plocate -y`.
+
 See [drill.md](./drill.md) for the full task and the exact commands I ran.
 
 
 ### What surprised me
-Little did i know that searching for files is more easier and organized on terminal than GUI. It's just so seamless and amazing. The disk usage and free space check too stood out a lot for me as i could see a breakdown what is occupying storage in each folder at a glance.
+Little did i know that searching for files is more easier and organized on terminal than GUI. It's just so seamless and amazing. The disk usage and free space check too stood out a lot for me as i could see a breakdown of what was occupying storage in each folder at a glance.
 
 ### Evidence
 Kindly find the screenshot or terminal transcript of the drill in [evidence/](./evidence).
